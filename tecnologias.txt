@@ -1,0 +1,2 @@
+bootstrap --> padrões para css
+Angular --> ajuda com html e javaScript
